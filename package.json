@@ -5,8 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "gh-pages": "cp CNAME ./dist/ && gh-pages -d dist"
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.4.4",
